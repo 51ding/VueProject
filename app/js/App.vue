@@ -1,6 +1,6 @@
 <template lang="html">
 	<div id="app">
-		<router-vue></router-vue>
+		<router-view/>
 	</div>
 </template>
 
